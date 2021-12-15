@@ -1,6 +1,6 @@
-<h1 align="left"> 👋 Hi, I’m Victor aka @VickyDeBondi </h1>
+<p> 👋 **Hi, I’m Victor aka @VickyDeBondi** </p>
 
-📈 After graduating from ESSEC, I joined the corporate `finance industry` as an `analyst`
+📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`
 
 🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`
 
