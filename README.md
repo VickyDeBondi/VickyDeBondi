@@ -6,7 +6,7 @@
 🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`<br /><br />
 
 <h3 align="left">Projects:</h3>
-<a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="" data-canonical-src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" style="max-width: 100%;"> </a> <br /><br />
+<a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="dada" data-canonical-src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" style="max-width: 100%;"> </a> <br /><br />
 
 📣 Fluent in French & English<br /><br />
 
