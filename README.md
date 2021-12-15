@@ -1,26 +1,17 @@
 <h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3><br /><br />
 
 📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`<br />
-
 🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`<br />
-
 💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`<br />
-
 🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`<br /><br />
 
+📣 Fluent in French & English<br /><br />
 
-📣 Fluent in French & English
+◉ Highly proficient in Python, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, Photoshop & Illustrator.<br />
+◉ Proficient in Reuters, Morningstar, R, and CSS/HTML.<br />
+◉ Beginner level in C++ and JavaScript.<br /><br />
 
-
-◉ Highly proficient in Python, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, Photoshop & Illustrator.
-
-◉ Proficient in Reuters, Morningstar, R, and CSS/HTML.
-
-◉ Beginner level in C++ and JavaScript.
-
-
-Hobbies: 🏂 🏄 🎽 🎣 🏈
-
+Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
