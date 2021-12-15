@@ -1,12 +1,12 @@
 <h1 align="left"> 👋 Hi, I’m Victor aka @VickyDeBondi </h1>
 
-📈 After graduating from ESSEC, I joined the corporate finance industry as an analyst
+📈 After graduating from ESSEC, I joined the corporate `finance industry` as an `analyst`
 
-🔬 At ease with numbers, I always bring quantitative insights to my decision process
+🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`
 
-💾 Looking for a more agile environment, I started learning Data Science at Le Wagon
+💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`
 
-🎯 Full of knowledge, I am now looking for opportunities as a Data Scientist / Analyst
+🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`
 
 
 📣 Fluent in French & English
