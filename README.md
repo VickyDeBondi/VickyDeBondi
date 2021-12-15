@@ -5,6 +5,10 @@
 💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`<br />
 🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`<br /><br />
 
+<h3 align="left">Projects:</h3><br />
+<img alt="CTO AI Slack first DevOps Workflows" src="https://camo.githubusercontent.com/9f74f969c9d40b61cd14878ed385e9ee885ff95e7123a23e1cb72dc1593b9b15/68747470733a2f2f617065782d736f6674776172652e696d6769782e6e65742f6769746875622f73706f6e736f72732f63746f2d61692e706e67" data-canonical-src="https://apex-software.imgix.net/github/sponsors/cto-ai.png" style="max-width: 100%;">
+
+<br /><br />
 📣 Fluent in French & English<br /><br />
 
 ◉ Highly proficient in Python, BigQuery, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Flask, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, and Photoshop & Illustrator.<br />
