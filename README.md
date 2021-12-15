@@ -1,11 +1,12 @@
 <h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3><br /><br />
-📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`
 
-🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`
+📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`<br />
 
-💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`
+🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`<br />
 
-🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`
+💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`<br />
+
+🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`<br /><br />
 
 
 📣 Fluent in French & English
