@@ -1,4 +1,5 @@
 <h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3>
+ 
 
 📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`
 
@@ -8,16 +9,16 @@
 
 🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`
 
-
+ 
 📣 Fluent in French & English
-
+ 
 
 ◉ Highly proficient in Python, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, Photoshop & Illustrator.
 
 ◉ Proficient in Reuters, Morningstar, R, and CSS/HTML.
 
 ◉ Beginner level in C++ and JavaScript.
-
+ 
 
 Hobbies: 🏂 🏄 🎽 🎣 🏈
 
