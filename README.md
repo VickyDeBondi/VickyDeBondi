@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3><br /><br />
+<h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3><br />
 
 
 📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`<br />
