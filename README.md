@@ -26,16 +26,16 @@ Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
         </a>
       </td>
       <td width="50%" align="center">
-          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="The Schrute Project" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_theschruteproject.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_theschruteproject.jpg" height="150"> </a>
       </td>
     </tr>
       <tr>
         <td width="50%" align="center">
-          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="blondy.com" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_blondy.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_blondy.jpg" height="150"> </a>
         </a>
       </td>
       <td width="50%" align="center">
-          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Daily News" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" height="150"> </a>
       </td>
     </tr>
   </tbody>
