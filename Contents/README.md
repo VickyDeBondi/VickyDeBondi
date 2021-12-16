@@ -32,15 +32,15 @@
   
   <tr>
    <td align="center">
-    Step 1 </br>
+    <b>Step 1</b> </br>
     Scrape the news from Mergermarket.com
    </td>
    <td align="center">
-    Step 2 </br>
+    <b>Step 2</b> </br>
     Clean the news, delete recurring useless information and format the data
    </td>
    <td align="center">
-    Step 3 </br>
+    <b>Step 3</b> </br>
     Send personalized email to the team
    </td>
   </tr>
