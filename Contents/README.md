@@ -1,5 +1,5 @@
 <h2 align="left"> Project: Daily News (2019-2020) </h2>
-<a> <img alt="Daily News" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" height=150> </a> </br></br>
+<a> <img alt="Daily News" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" height=150> </a> </br>
 
 <b>Skills used</b>: VBA, Excel </br>
 <b>Front-end</b>: No </br></br>
