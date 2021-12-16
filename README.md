@@ -1,6 +1,5 @@
 <h3 align="left">👋 Hi, I’m Victor aka @VickyDeBondi</h3><br />
 
-
 📈 After graduating from `ESSEC`, I joined the corporate `finance industry` as an `analyst`<br />
 🔬 At ease with `numbers`, I always bring `quantitative` insights to my `decision process`<br />
 💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`<br />
@@ -8,14 +7,11 @@
 
 📣 Fluent in French & English<br /><br />
 
-
 ◉ Highly proficient in Python, BigQuery, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Flask, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, and Photoshop & Illustrator.<br />
 ◉ Proficient in Reuters, Morningstar, R, and CSS/HTML.<br />
 ◉ Beginner level in C++ and JavaScript.<br /><br />
 
-
 Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
-
 
 <h3 align="left">Projects</h3>
 <table>
@@ -41,7 +37,6 @@ Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
   </tbody>
 </table> <br /><br />
 
-
 <h3 align="left">Proficient with</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
@@ -58,7 +53,6 @@ Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="60"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/> </a>  
 </p>
-
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
