@@ -8,9 +8,9 @@
   <tr>
    <td align="left">
     <b>Problem</b>: For market monitoring purpose, I had to manually gather all financial transactions currently ongoing in Europe from Mergermarket.com and send personalized
-     emails to my team. 
-    <b>Solution</b>: Automation to scrape the data, clean it, and send personalized emails. 
-    <b>Gains</b>: The task that took me 1 hour and a half every day was now running by itself during 5 min. 
+     emails to my team. </br>
+    <b>Solution</b>: Automation to scrape the data, clean it, and send personalized emails. </br>
+    <b>Gains</b>: The task that took me 1 hour and a half every day was now running by itself during 5 min. </br>
    </td>
   </tr>
 </table></br>
