@@ -18,7 +18,28 @@ Hobbies: 🏂 🏄 🎽 🎣 🏈<br /><br />
 
 
 <h3 align="left">Projects</h3>
-<a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical-src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a> <br /><br />
+<table>
+    <tbody>
+      <tr>
+        <td width="50%" align="center">
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+        </a>
+      </td>
+      <td width="50%" align="center">
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+      </td>
+    </tr>
+      <tr>
+        <td width="50%" align="center">
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+        </a>
+      </td>
+      <td width="50%" align="center">
+          <a href="http://smallbusinesslisbon.herokuapp.com/" rel="nofollow"> <img alt="Lisbon Restaurant Helper" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_LisbonRestaurantHelper.jpg" height="150"> </a>
+      </td>
+    </tr>
+  </tbody>
+</table> <br /><br />
 
 
 <h3 align="left">Proficient with</h3>
