@@ -20,36 +20,28 @@
   
   <tr>
    <td align="center">
-     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/googlelogo.png" height=40> </a>
-     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/ubereatslogo.png" height=40> </a>
+     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/mergermarketlogo.jpg" height=40> </a>
     </td>
    <td align="center">
      <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/gearslogo.png" height=40> </a>
    </td>
    <td align="center">
-     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/modellogo.png" height=40> </a>
-   </td>
-   <td align="center">
-     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/production.png" height=40> </a>
+     <a> <img src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/maillogo.jpg" height=40> </a>
    </td>
   </tr>
   
   <tr>
    <td align="center">
     Step 1 </br>
-    Scrape data from Google reviews and UberEats 
+    Scrape the news from Mergermarket.com
    </td>
    <td align="center">
     Step 2 </br>
-    Clean the dataset and analyze it.
+    Clean the news, delete recurring useless information and format the data
    </td>
    <td align="center">
     Step 3 </br>
-    Create NLP model (reviews analysis) and a ML K-neighbors model (score prediction)	 
-   </td>
-   <td align="center">
-    Step 4 </br>
-    Develop and launch a Streamlit application on Heroku.
+    Send personalized email to the team
    </td>
   </tr>
   
