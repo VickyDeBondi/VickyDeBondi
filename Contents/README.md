@@ -46,6 +46,3 @@
   </tr>
   
 </table></br>
-
-<b>Visualization</b>: </br>
-<a> <img alt="Heroku App" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/visullrh.PNG" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/visullrh.PNG" style="max-width: 100%;"> </a>
