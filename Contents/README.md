@@ -2,7 +2,7 @@
 <a> <img alt="Daily News" src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" data-canonical src="https://github.com/VickyDeBondi/VickyDeBondi/blob/main/Contents/project_dailynews.jpg" height=150> </a> </br></br>
 
 <b>Skills used</b>: VBA, Excel </br>
-<b>Front-end</b>: No </br> </br></br>
+<b>Front-end</b>: No </br></br>
 
 <table>
   <tr>
