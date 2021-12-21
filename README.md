@@ -5,11 +5,11 @@
 💾 Looking for a more `agile` environment, I started learning `Data Science` at `Le Wagon`<br />
 🎯 Full of `knowledge`, I am now looking for opportunities as a `Data Scientist / Analyst`<br />
 
-📣 Fluent in French & English<br />
+📣 Fluent in French & English <br />
 
-◉ Highly proficient in Python, BigQuery, SQL, Jupyter, Github, Google Cloud Platform, FastAPI, Flask, Ubuntu, Streamlit, Heroku, Trello, Docker, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, and Photoshop & Illustrator.<br />
-◉ Proficient in Reuters, Morningstar, R, and CSS/HTML.<br />
-◉ Beginner level in C++ and JavaScript.<br />
+◉ Highly proficient in Python, SQL, Jupyter, Github, Streamlit, Heroku, Trello, Notion, Excel, VBA, Word, PowerPoint, Bloomberg, S&P Capital IQ, and Photoshop & Illustrator; <br />
+◉ Proficient in Flask, Google Cloud Platform, FastAPI, Docker, Reuters, Morningstar, R, and CSS/HTML; <br />
+◉ Beginner level in C++ and JavaScript. <br />
 
 Hobbies: 🏂 🏄 🎽 🎣 🏈<br />
 
